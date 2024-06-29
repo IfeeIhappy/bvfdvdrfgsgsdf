@@ -1,4 +1,4 @@
-module github.com/iocmet/roblox-dissector-build-fixed
+module github.com/IfeeIhappy/bvfdvdrfgsgsdf
 
 go 1.13
 
